@@ -1,5 +1,4 @@
-# README.md
-### ```Dorara```
+# DORARA
 
 ![](https://github.com/anvyidol/anvyidol/raw/output/dist/github-snake.svg)
 
