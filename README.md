@@ -1,7 +1,7 @@
 # README.md
 ### ```Dorara```
 
-![snake gif](https://github.com/anvyidol/anvyidol/blob/output/github-contribution-grid-snake.gif)
+![](https://github.com/anvyidol/anvyidol/raw/output/dist/github-snake.svg)
 
 <!--
 **anvyidol/anvyidol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
