@@ -11,7 +11,7 @@ jobs:
         name: generate-github-profile-3d-contrib
         steps:
             - uses: actions/checkout@v2
-            - uses: Platane/snk@v2
+            - uses: Platane/snk@v3
 
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
