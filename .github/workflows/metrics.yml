@@ -16,7 +16,7 @@ jobs:
       - name: Update metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.svg
           committer_message: 'chore: update ${filename}'
           config_timezone: Asia/Ho_Chi_Minh
