@@ -28,3 +28,5 @@ src="https://img.shields.io/github/followers/leho-dev?logo=github&style=for-the-
 
 ![](https://github.com/anvyidol/anvyidol/raw/output/dist/github-snake.svg)
 
+![](https://komarev.com/ghpvc/?username=leho-dev)
+
