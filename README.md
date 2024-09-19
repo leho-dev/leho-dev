@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is leho-dev
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is leho-dev 
 ================================================================================================================================
 
 * 🌍  I'm based in Vietnamese.
@@ -7,6 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/leho-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/leho-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+![](https://komarev.com/ghpvc/?username=leho-dev)
 
 ### SKILLS
 
@@ -27,6 +28,4 @@ src="https://img.shields.io/github/followers/leho-dev?logo=github&style=for-the-
 <a href="http://www.github.com/leho-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leho-dev&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ![](https://github.com/anvyidol/anvyidol/raw/output/dist/github-snake.svg)
-
-![](https://komarev.com/ghpvc/?username=leho-dev)
 
