@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 * 🌍  I'm based in Vietnamese.
-* ✉️  You can contact me at [lehodev@undefine.tech](mailto:lehodev@undefine.tech)
+* ✉️  You can contact me at [ho.pl@ou.edu.vn](mailto:ho.pl@ou.edu.vn)
 * 🚀  I'm currently working on [HCMCOUJS](http://journalofscience.ou.edu.vn)
 
 <a href="https://www.github.com/leho-dev" target="_blank" rel="noreferrer"><img
